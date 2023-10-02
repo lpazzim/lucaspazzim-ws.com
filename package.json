@@ -1,0 +1,15 @@
+{
+    "name": "lucaspazzim-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Lucas Pazzim",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "ws": "^8.14.2"
+    }
+}
